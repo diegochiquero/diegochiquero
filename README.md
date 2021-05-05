@@ -55,6 +55,7 @@ I am full stack dev working on my own from Málaga (Spain).
     <a href="#"><img height="40" src="./icons/mocha.png"/></a>
     <a href="#"><img height="40" src="./icons/cucumber.png"/></a>
     <a href="#"><img height="38" src="./icons/selenium.png"/></a>
+    <a href="#"><img height="36" src="./icons/cypress.png"/></a>
 </div>
 
 ## 📚&nbsp;Methodologies
