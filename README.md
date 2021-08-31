@@ -31,8 +31,9 @@ I am full stack dev working on my own from Málaga (Spain).
     <a href="#"><img height="36" src="./icons/mongodb.png"/></a>
     <a href="#"><img height="40" src="./icons/mysql.png"/></a>
     <a href="#"><img height="36" src="./icons/heroku.png"/></a>
+    <a href="#"><img height="34" src="./icons/azure.png"/></a>
     <a href="#"><img height="35" src="./icons/linux.png"/></a>
-    <a href="#"><img height="42" src="./icons/nuxt.png"/></a>
+    <a href="#"><img height="46" src="./icons/nuxt.png"/></a>
 </div>
 
 ## 🧰&nbsp;Tools
