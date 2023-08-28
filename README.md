@@ -73,27 +73,10 @@ I am full stack dev working on my own from Málaga (Spain).
     <a href="#"><img height="42" src="./icons/ci&cd.png"/></a>
 </div>
 
-## 💬&nbsp;Let's get in touch
-
-<div>
-    <a href="https://twitter.com/chiquerodiego"><img height="40" src="./icons/twitter.png"/></a>
-    <a href="https://www.linkedin.com/in/diego-chiquero-mena/"><img height="40" src="./icons/linkedin.png"/></a>
-    <a href="https://about.me/diegochiquero/"><img height="40" src="./icons/aboutme.png"/></a>
-</div>
-
-## 📈&nbsp;GitHub stats
-
-<div align="left">
-<img height='130px' style="padding-left:20px" src="https://github-readme-stats.vercel.app/api?username=diegochiquero&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-
-<img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegochiquero&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-</div>
-
 ---
 <br/>
 <div align="center">
     <i>A good code is like a story, not a puzzle.</i><br/><br/>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=diegochiquero.diegochiquero"/>
 </div>
 
 
